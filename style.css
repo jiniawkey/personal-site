@@ -1,0 +1,140 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Merriweather', serif;
+}
+.top-container
+{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 200px;
+}
+h1
+{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #6FBFBF;
+}
+.cloud-top
+{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    filter: opacity(20%);
+}
+.cloud-bottom
+{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 100px;
+    bottom: 500PX;
+    filter: opacity(20%);
+}
+.wee
+{
+    width: 40%;
+    margin: 20px auto 100px auto;
+}
+.businessman
+{
+    width: 25%;
+}
+.profile
+{
+    margin: 100px auto 100px auto;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.books
+{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+    padding-top: 48px ;
+}
+.pragraph1
+{
+    text-align: left;
+}
+.idea
+{
+    width: 25%;
+    float: right;
+    padding-top: 40px ;
+}
+.pragraph2
+{
+    text-align: left;
+    margin-left: 30px;
+}
+hr
+{
+    border: dotted #EAF6F6 10px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto  100px auto;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.contact
+{
+    width: 45%;
+    margin: 20px auto 20px;
+}
+.bottom-container
+{
+    background-color: #6fbfbf;
+    padding: 40px;
+    margin: 100px auto auto;
+}
+.btn a
+{
+    text-align: center;
+    text-decoration: none;
+    
+}
+.btn
+{
+    width: 150px;
+    background-color: #EAF6F6;
+    margin: 40px auto 100px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 50px;
+    box-shadow: 0px 5px 0px 0px powderblue,
+                0px -5px 0px 0px #66fbfb ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-link
+{
+    margin: auto 20px auto 20px;
+}
+.bottom-container a
+{
+    color: #EAF6F6;
+    text-decoration: none;
+}
+.bottom-container a:hover
+{
+    color: white;
+}
+.footer
+{
+    color: white;
+    margin: 20px auto 20px auto;
+}
